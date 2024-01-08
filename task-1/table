@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+
+    <style>
+    
+        table, th, tr, td{
+            border: 1px solid black ;
+            padding: 10px;
+            border-collapse: collapse;
+            margin-left: 8%;
+            margin-top: 5%;
+        }
+    </style>
+
+</head>
+<body>
+
+        <h1 style="text-align: center;">Task-1</h1>
+        <h2 style="text-align: center;">Special Time-Table</h2>
+        <table>
+            <tr > 
+                <th colspan="2">DAY/TIME</th>
+                <th>09:00-10:00</th>
+                <th>10:00-10:50</th>
+                <th>10:50-11:40</th>
+                <th>11:40-12:30</th>
+                <th rowspan="7">LUNCH</th>
+                <th>01:30-02:20</th>
+                <th  rowspan="7">02:20-03:10</th>
+                <th  rowspan="7">03:10-04:00</th>
+                <th  rowspan="7">04:00-04:50</th>
+            </tr>
+
+            <tr>
+                <td rowspan="6">11.12.2023<br>(MON)</td>
+                <td>III-A</td>
+                <td>WT</td>
+                <td>SE</td>
+                <td>CC</td>
+                <td>AI</td>
+                <td>CN</td>
+             
+            </tr>
+            
+            <tr>
+                <td></td>
+                <td>ANK</td>
+                <td>PRAV</td>
+                <td>SHA</td>
+                <td>PRA</td>
+                <td>SAN</td>
+            </tr>
+
+            
+            <tr>
+                <td>III-B</td>
+                <td>AI</td>
+                <td>CC</td>
+                <td>CN</td>
+                <td>WT</td>
+                <td>SE</td>
+            </tr>
+
+            
+            <tr>
+                <td></td>
+                <td>AKA</td>
+                <td>SHA</td>
+                <td>SAN</td>
+                <td>DIV</td>
+                <td>AKU</td>
+            </tr>
+
+            
+            <tr>
+                <td>III-C</td>
+                <td>WT</td>
+                <td>SE</td>
+                <td>CN</td>
+                <td>AI</td>
+                <td>CC</td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td>VIP</td>
+                <td>AKU</td>
+                <td>ARU</td>
+                <td>NEE</td>
+                <td>PRAV</td>
+            </tr>
+      
+    </table>
+
+</body>
+</html>
