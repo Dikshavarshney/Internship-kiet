@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skill</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper2">
+        <div class="navb">
+            <h2 class="tit">Portfolio</h2>
+            <a id="one" href="/task2/portfolio.html">About</a>
+            <a id="two" href="/task2/contact.html">Contact</a>
+            <a id="three" href="/task2/skill.html">Skill</a>
+            <a id="four" href="/task2/project.html">Projects</a>
+        </div>           
+
+            <div class="para2">
+                <h1 id="shd">Skills</h1>
+                <p class="pg2">C Programming</p>
+                <p class="pg2">Java</p>
+                <p class="pg2">OPPs</p>
+                <p class="pg2">DBMS</p>
+                <p class="pg2">HTML</p>
+                <p class="pg2">CSS</p>
+                    
+            </div>
+        
+    </div>
+</body>
+</html>
