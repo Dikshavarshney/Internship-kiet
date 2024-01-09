@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper2">
+        
+        <div class="navb">
+            <h2 class="tit">Portfolio</h2>
+            <a id="one" href="/task2/portfolio.html">About</a>
+            <a id="two" href="/task2/contact.html">Contact</a>
+            <a id="three" href="/task2/skill.html">Skill</a>
+            <a id="four" href="/task2/project.html">Projects</a>
+        </div>           
+        
+        <div class="para2">
+            <h1 class="hd">Name:</h1>
+            <p class="pg">Diksha Varshney</p>
+
+            <h1 class="hd">Current Location:</h1>
+            <p class="pg">MuradNagar, Ghaziabad.</p>
+            
+            <h1 class="hd">Address:</h1>
+            <p class="pg">Hathras, U.P</p>
+            
+            <h1 class="hd">Phone Number:</h1>
+            <p class="pg">+91 8218 _ _ _ _ _ _</p>
+           
+            <h1 class="hd">Email id:</h1>
+            <p class="pg" style="color: blue;">diksha.2224mca131@kiet.edu</p>
+          
+            <h1 class="hd">LinkedIn id:</h1>
+            <p class="pg"> <a href="https://www.linkedin.com/in/diksha-varshney-81954622a/" target="_blank" > Diksha Varshney</a></p>
+            
+            <h1 class="hd">GitHub:2</h1>
+            <p class="pg"> <a href="https://github.com/Dikshavarshney" target="_blank"> Diskha Varshney</a> </p>
+        </div>
+    </div>
+</body>
+</html>
