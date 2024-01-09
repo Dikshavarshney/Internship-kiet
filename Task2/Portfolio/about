@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        
+        <div class="navb">
+            <h2 class="tit">Portfolio</h2>
+            <a id="one" href="/task2/portfolio.html">About</a>
+            <a id="two" href="/task2/contact.html">Contact</a>
+            <a id="three" href="/task2/skill.html">Skill</a>
+            <a id="four" href="/task2/project.html">Projects</a>
+        </div>           
+        
+
+        <div class="img"> 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCEf0tCl3w9eQ9HM4uxla5J9IS4A-8FNkP-g&usqp=CAU" class="dp">
+        </div>
+
+        <h1 id="into">Introduction</h1>
+        <div class="para">
+            <p> Hello There! My name is <b>Diksha Varshney.</b>  
+                <br><br>
+                I hail from Hathras and currently living in Ghaziabad.
+                <br>
+                I am Purusing MCA from KIET group of Institutions Dehli-NCR, Ghaziabad 
+                <br>
+                and have done BCA From DR. Bhim Rao Ambedeker University, Agra.
+                <br>
+                12<sup>th</sup> and 10<sup>th</sup> respetively year 2019 and 2017 from U.P Board.
+                <br>
+                I am Currently developing a Parallax Website using HTML and CSS. I am the 
+                Student Placement Co-ordinator(SPC)<br>of MCA Department.
+                I have participated in Ideathon'23 organized by Department of Computer Application <br>
+                and presented my idea with my team, we've proposed a Patient Monitoring System which was using IOT Technology. 
+                <br>
+                I have also participated in JAM session Jan'23.
+                <br><br>
+                Coming to my extra-curricular activties , I have Co-ordinate various Event at KIET as well as Department.
+                I have Co-ordinated Placements drives as well. I have also the 2<sup>nd</sup> 
+                Runner-up in rangoli competiton at KIET group of Institutions. 
+                <br><br>
+                Talking about my Hobbies , I love to listen music and watching web series
+                <br>As a Human being I'm a Humouras in Nature and I keep my around neat and organized.
+
+            </p>
+            </div>
+    </div>
+
+
+
+</body>
+</html>
