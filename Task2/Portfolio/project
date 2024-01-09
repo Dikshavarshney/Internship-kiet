@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="navb">
+            <h2 class="tit">Portfolio</h2>
+            <a id="one" href="/task2/portfolio.html">About</a>
+            <a id="two" href="/task2/contact.html">Contact</a>
+            <a id="three" href="/task2/skill.html">Skill</a>
+            <a id="four" href="/task2/project.html">Projects</a>
+        </div> 
+
+        <div class="para2">
+            <h1 class="phd">Projects</h1>
+            <h2 class="ph2">Dream Destination</h2>
+            <h3 class="ph3">Discription:</h3>
+            <p class="pp">It is responsive website , which suggest people good places and actitvity to do. 
+            <br>
+                Its has total 4 module- Home, About, Booking, Signp/login.</p>
+            <h3 class="ph3">Technology:</h3>
+            <p class="pp">HTML, CSS, PHP, JS; </p>
+            
+            <h3 class="ph3">Team Size:</h3>
+            <p class="pp">2 Members.</p>
+            <br><br><br>
+            <h2 class="ph2">Parallax Web</h2>
+            <h3 class="ph3">Discription:</h3>
+            <p class="pp">It is a website with parallax effect , it is nothing but show some exciting activities 
+                <br>to do and show case the css skill.</p>
+            <h3 class="ph3">Technology:</h3>
+            <p class="pp">HTML, CSS; </p>
+            
+            <h3 class="ph3">Team Size:</h3>
+            <p class="pp">Solo</p>
+                
+        </div>
+    </div>
+
+</body>
+</html>
